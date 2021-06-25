@@ -18277,7 +18277,7 @@ else s=a===2?"Severity: Medium":"Severity: Low"
 return s},
 aix:function(){var s=0,r=P.X(t.dV),q
 var $async$aix=P.S(function(a,b){if(a===1)return P.U(b,r)
-while(true)switch(s){case 0:q=N.YU(C.ub,"maps_icons/pothole.png")
+while(true)switch(s){case 0:q=N.YU(C.ub,"/pothole.png")
 s=1
 break
 case 1:return P.V(q,r)}})
@@ -74653,7 +74653,7 @@ s=M.b4(o,o,o,o,o,o,o,o,o,o)
 r=t.Ma
 k=E.FE(H.c([B.y9(o,C.hZ,new Y.a7G(a),o)],r),!0,5,s,k)
 s=a.a5(n).f
-q=U.azO("assets/maps_icons/pothole.png",40,40)
+q=U.azO("assets/pothole.png",40,40)
 p=B.aBz(i.r)
 s=T.iZ(Q.aum(q,o,L.hs(H.e4(p,"Severity: ",""),o,C.dW,o,o,o)),o,s.a.a*0.2)
 n=a.a5(n).f
@@ -74744,7 +74744,7 @@ Q.agg.prototype={
 $2:function(a,b){var s,r,q,p=null,o=this.a,n=o.r[b].f
 if(n.length===0)o=M.b4(p,p,p,p,p,p,p,p,p,p)
 else{n=L.hs(n,p,p,p,p,p)
-s=U.azO("assets/maps_icons/pothole.png",30,30)
+s=U.azO("assets/pothole.png",30,30)
 r=a.a5(t.w).f
 q=B.aBz(o.r[b].r)
 o=V.wS(Q.aum(n,new Q.agb(o,a,b),T.pr(H.c([s,T.iZ(L.hs(H.e4(q,"Severity: ",""),p,p,C.cX,p,p),p,r.a.a*0.1)],t.Ma),C.aa,C.cK)),5)
