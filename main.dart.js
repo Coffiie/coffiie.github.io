@@ -18277,7 +18277,7 @@ else s=a===2?"Severity: Medium":"Severity: Low"
 return s},
 aix:function(){var s=0,r=P.X(t.dV),q
 var $async$aix=P.S(function(a,b){if(a===1)return P.U(b,r)
-while(true)switch(s){case 0:q=N.YU(C.ub,"/pothole.png")
+while(true)switch(s){case 0:q=N.YU(C.ub,"assets/pothole.png")
 s=1
 break
 case 1:return P.V(q,r)}})
