@@ -45571,7 +45571,7 @@ case 6:case 1:return A.x(q,r)
 case 2:return A.w(o.at(-1),r)}})
 return A.y($async$kr,r)}}
 A.aBo.prototype={
-$0(){var s,r,q="http://localhost:8080/",p=null,o=new A.a9S(new A.Sa()),n=$.aQ7(),m=A.b([],t.qj)
+$0(){var s,r,q="https://discordflutter-production.up.railway.app/",p=null,o=new A.a9S(new A.Sa()),n=$.aQ7(),m=A.b([],t.qj)
 m=new A.qq(q,m,n,o,B.Ha,B.H2,p,p)
 m.a6d(q,n,o,p,p,p,p,p,p)
 o=t.H_
